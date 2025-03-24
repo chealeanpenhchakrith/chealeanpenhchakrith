@@ -2,6 +2,8 @@
 - 👀 I’m interested in software engineering
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on concrete projects
-- 📫 How to reach me : leanpenhchakrith.chea@gmail.com
+- 📫 How to reach me :
+  - email : leanpenhchakrith.chea@gmail.com
+  - linkedin : https://www.linkedin.com/in/leanpenhchakrith-chea
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: International student studying in Paris
