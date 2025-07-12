@@ -21,10 +21,6 @@ I’m currently a master’s degree student in Software Engineering at EFREI Par
 
 ## 🛠 Technologies & Tools
 
-### Design :
-
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-
 ### Front-End :
 
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
@@ -43,6 +39,10 @@ I’m currently a master’s degree student in Software Engineering at EFREI Par
 
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+### Design :
+
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ## 🏆 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=chealeanpenhchakrith&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
