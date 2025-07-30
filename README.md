@@ -44,7 +44,6 @@ I’m currently a master’s degree student in Software Engineering at EFREI Par
 
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
-## 🏆 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=chealeanpenhchakrith&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=false)<br/>
+---
 
 ### 🚀 Always exploring new technologies and building software that solves real problems.
