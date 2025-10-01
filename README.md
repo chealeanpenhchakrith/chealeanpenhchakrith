@@ -24,7 +24,7 @@ I’m currently a master’s degree student in Software Engineering at EFREI Par
 ### Front-End :
 
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=black)
-![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white)
+![React](https://img.shields.io/badge/-ReactJs-3178C6?logo=react&logoColor=white)
 ![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
